@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "rp2040",
-      "maintainer": "Earle F. Philhower, III",
-      "websiteURL": "https://github.com/earlephilhower/arduino-pico",
-      "email": "earlephilhower@yahoo.com",
+      "maintainer": "Markas Teknoloji",
+      "websiteURL": "https://markasteknoloji.com/",
+      "email": "",
       "help": {
         "online": "https://arduino-pico.readthedocs.io/en/latest/"
       },
