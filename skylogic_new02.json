@@ -27,7 +27,7 @@
             {
               "packager": "rp2040",
               "name": "pqt-gcc",
-              "version": "1.0.0"
+              "version": "3.7.2s"
             },
             {
               "packager": "rp2040",
