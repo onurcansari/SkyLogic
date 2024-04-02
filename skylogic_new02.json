@@ -25,10 +25,20 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "rp2040",
-              "name": "pqt-gcc",
-              "version": "3.7.2"
+            "packager": "rp2040",
+            "name": "arm-none-eabi-gcc",
+            "version": "9-2020-q2-update"
             },
+            {
+            "packager": "rp2040",
+            "name": "cmake",
+            "version": "3.16.1"
+            },
+            {
+            "packager": "rp2040",
+            "name": "ninja",
+            "version": "1.10.0"
+            }
             {
               "packager": "rp2040",
               "version": "2.2.0-d04e724",
