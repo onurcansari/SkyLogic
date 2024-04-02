@@ -3,7 +3,7 @@
       {
         "name": "rp2040",
         "maintainer": "Markas Teknoloji",
-        "websiteURL": "https://docs.markasteknoloji.com/",
+        "websiteURL": "https://docs.markasteknoloji.com/?docs=arduino-hizli-baslangic",
         "email": "info@markasteknologi.com",  
         "help": {
           "online": "https://arduino-pico.readthedocs.io/en/latest/"
