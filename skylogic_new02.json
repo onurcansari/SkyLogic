@@ -2,25 +2,25 @@
   "packages": [
     {
       "name": "rp2040",
-      "maintainer": "Raspberry Pi",
-      "websiteURL": "https://www.raspberrypi.org/",
+      "maintainer": "Markas Teknoloji",
+      "websiteURL": "https://docs.markasteknoloji.com/?docs=arduino-hizli-baslangic",
       "email": "info@raspberrypi.org",
       "help": {
         "online": "https://www.raspberrypi.org/documentation/rp2040/getting-started/"
       },
       "platforms": [
         {
-          "name": "Raspberry Pi Pico/RP2040",
+          "name": "SkyLogic",
           "architecture": "rp2040",
-          "version": "1.0.0",
-          "category": "Raspberry Pi",
+          "version": "3.7.2",
+          "category": "SkyLogic",
           "url": "https://github.com/onurcansari/SkyLogic/releases/download/1.0/SkyLogic.zip",
           "archiveFileName": "SkyLogic.zip",
           "checksum": "SHA-256:5BFDD3FAAC263CD633AC665E2E8F53CF7B6EDFB28B441C09A07ACBE75F89A91A",
           "size": "86540382",
           "boards": [
             {
-              "name": "Raspberry Pi Pico"
+              "name": "SkyLogic"
             }
           ],
           "toolsDependencies": [
