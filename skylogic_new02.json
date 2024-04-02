@@ -64,7 +64,22 @@
           "size": "86540382",
           "checksum": "SHA-256:5BFDD3FAAC263CD633AC665E2E8F53CF7B6EDFB28B441C09A07ACBE75F89A91A"
         }
-      ]  
+      ],
+      "tools": [
+        {
+          "version": "2.2.0-d04e724",
+          "name": "pqt-picotool",
+          "systems": [
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://github.com/earlephilhower/pico-quick-toolchain/releases/download/1.1.0-a/x86_64-w64-mingw32.mklittlefs-6b5c62d.210328.zip",
+              "archiveFileName": "x86_64-w64-mingw32.mklittlefs-6b5c62d.210328.zip",
+              "checksum": "SHA-256:17889e9ab6d199baed2c1532926c8508310524f9ba6b1db0816be5ee5d39a2f6",
+              "size": "345250"
+            }
+          ]
+          }
+      ]
   }    
 ]
 }
