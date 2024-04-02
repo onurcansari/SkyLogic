@@ -1,0 +1,74 @@
+{
+    "packages": [
+      {
+        "name": "rp2040",
+        "maintainer": "Markas Teknoloji",
+        "websiteURL": "https://docs.markasteknoloji.com/",
+        "email": "info@markasteknologi.com",
+        "help": {
+          "online": "https://arduino-pico.readthedocs.io/en/latest/"
+        },
+        "platforms": [
+          {
+            "category": "SkyLogic",
+            "name": "SkyLogic",
+            "url": "https://github.com/earlephilhower/arduino-pico/releases/download/3.7.2/rp2040-3.7.2.zip",
+            "version": "3.7.2",
+            "architecture": "rp2040",
+            "archiveFileName": "rp2040-3.7.2.zip",
+            "boards": [
+              {
+                "name": "SkyLogic"
+              },
+              {
+                "name": "SkyLogic W"
+              }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-gcc"
+              },
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-mklittlefs"
+              },
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-elf2uf2"
+              },
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-pioasm"
+              },
+              {
+                "packager": "rp2040",
+                "version": "1.0.1-base-3a57aed",
+                "name": "pqt-python3"
+              },
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-openocd"
+              },
+              {
+                "packager": "rp2040",
+                "version": "2.2.0-d04e724",
+                "name": "pqt-picotool"
+              }
+            ],
+            "help": {
+              "online": ""
+            },
+            "size": "86316072",
+            "checksum": "SHA-256:53398d17768820d9344aa2b16c1c63dd599c0dd0c811310d3c25a76ab51f127f"
+          }
+        ]
+      }
+    ]
+  }
+  
